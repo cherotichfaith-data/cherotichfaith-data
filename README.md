@@ -1,7 +1,7 @@
 ## Hi there 👋 I'm Faith Cherotich
 
 <!--
-**cherotichfaith-data/cherotichfaith-data** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+I'm a **Data Girlie** 📊 passionate about using **data and AI for social good**, **climate sustainability**, and **technology for impact**.
 
 Here are some ideas to get you started:
 
