@@ -61,8 +61,7 @@
 
 ---
 
-<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=cherotichfaith&show_icons=true&locale=en&layout=compact" /></p>
-
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=cherotichfaith&show_icons=true&locale=en" /></p>
-
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=cherotichfaith&" /></p>
+[GitHub Statistics](https://github.com/cherotichfaith-data/cherotichfaith-data/stargazers)  
+[GitHub Statistics](https://github.com/cherotichfaith-data/cherotichfaith-data/network/members)  
+[GitHub Statistics](https://github.com/cherotichfaith-data/cherotichfaith-data)  
+[GitHub Statistics](https://github.com/cherotichfaith-data/cherotichfaith-data/commits)
