@@ -7,15 +7,15 @@
   <img src="https://komarev.com/ghpvc/?username=cherotichfaith&label=Profile%20views&color=0e75b6&style=flat" />
 </p>
 
-- 🌱 I'm currently learning **Advanced Machine Learning & AI Systems**
+- 🌱 I'm currently learning **Advanced Machine Learning & AI Systems in Aquaculture**
 
-- 🔭 I'm working on **BizMatchKE (AI business platform) & AquaSmart (aquaculture intelligence system)**
+- 🔭 I'm working on **AquaSmart (aquaculture intelligence system)**
 
-- 💬 Ask me about **Data Science, AI, SQL, and building real-world data systems**
+- 💬 Ask me about **Data Science, AI Governance, Aquaculture and building real-world data systems**
 
-- 📫 How to reach me **(your email here)**
+- 📫 How to reach me **faithcmamet@gmail.com**
 
-- ⚡ Fun fact **I turn data into systems that solve real-world problems 🚀**
+- ⚡ Fun fact **I am the happiest and most stressed in front of a computer**
 
 ---
 
