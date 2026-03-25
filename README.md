@@ -61,7 +61,3 @@
 
 ---
 
-[GitHub Statistics](https://github.com/cherotichfaith-data/cherotichfaith-data/stargazers)  
-[GitHub Statistics](https://github.com/cherotichfaith-data/cherotichfaith-data/network/members)  
-[GitHub Statistics](https://github.com/cherotichfaith-data/cherotichfaith-data)  
-[GitHub Statistics](https://github.com/cherotichfaith-data/cherotichfaith-data/commits)
